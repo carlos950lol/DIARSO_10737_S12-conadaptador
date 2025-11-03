@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fachada", "fachada\fachada.csproj", "{C0D4B3AF-7A48-4A83-B8EC-6498209F8FE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adaptador", "adaptador\adaptador.csproj", "{DB2628A6-AA6E-4625-B422-86FFB03E88A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0D4B3AF-7A48-4A83-B8EC-6498209F8FE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0D4B3AF-7A48-4A83-B8EC-6498209F8FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0D4B3AF-7A48-4A83-B8EC-6498209F8FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0D4B3AF-7A48-4A83-B8EC-6498209F8FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB2628A6-AA6E-4625-B422-86FFB03E88A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB2628A6-AA6E-4625-B422-86FFB03E88A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB2628A6-AA6E-4625-B422-86FFB03E88A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB2628A6-AA6E-4625-B422-86FFB03E88A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D9F1364-FABB-456B-982F-34EEE2086644}
+	EndGlobalSection
+EndGlobal
