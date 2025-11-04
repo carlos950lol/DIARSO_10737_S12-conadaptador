@@ -10,7 +10,8 @@ namespace proxy
     {
         public static void ConversionDolar(double sol,string nombre,string apellido)
         {
-            Proxy.TipoCambio(sol,nombre,apellido);
+            Proxy.LOG(nombre, apellido);
+            Proxy.TipoCambio(sol);
         }    
     }
 }
